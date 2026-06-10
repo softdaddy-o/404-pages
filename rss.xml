@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Ghost Site</title>
+    <link>https://ghost.example.invalid/</link>
+    <description>Ghost magazine feed</description>
+    <item>
+      <title>새벽 3시에 다시 올라온 복도 영상</title>
+      <link>https://ghost.example.invalid/magazine/ko/2026-06-10-daily-briefing/</link>
+      <guid>https://ghost.example.invalid/magazine/ko/2026-06-10-daily-briefing/</guid>
+      <description>오늘 괴담 피드에서 반복해서 보인 복도 영상 이야기와 그 불편한 반복성.</description>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
