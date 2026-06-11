@@ -5,11 +5,11 @@
     <link>http://127.0.0.1:7778/</link>
     <description>Ghost magazine feed</description>
     <item>
-      <title>새벽 3시에 다시 올라온 복도 영상</title>
-      <link>http://127.0.0.1:7778/magazine/ko/2026-06-10-daily-briefing/</link>
-      <guid>http://127.0.0.1:7778/magazine/ko/2026-06-10-daily-briefing/</guid>
-      <description>오늘 괴담 피드에서 반복해서 보인 복도 영상 이야기와 그 불편한 반복성.</description>
-      <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
+      <title>2026년 6월 11일 괴담 트렌드 브리핑</title>
+      <link>http://127.0.0.1:7778/magazine/ko/2026-06-11-ghost-trend-briefing/</link>
+      <guid>http://127.0.0.1:7778/magazine/ko/2026-06-11-ghost-trend-briefing/</guid>
+      <description>공개 웹 수집 결과를 바탕으로 괴담이 오늘 어떤 맥락에서 반복되는지 짧게 정리합니다.</description>
+      <pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
